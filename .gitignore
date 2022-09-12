@@ -20,7 +20,7 @@ Gemfile.local.lock
 # Mac OS X files
 .DS_Store
 # database config for testing
-config/database.yml
+#config/database.yml
 # target config file for testing
 features/support/targets.yml
 # Generated test files

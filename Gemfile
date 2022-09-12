@@ -26,6 +26,7 @@ group :development do
   # Metasploit::Aggregator external session proxy
   # disabled during 2.5 transition until aggregator is available
   #gem 'metasploit-aggregator'
+  "gem 'mini_portile2', '~> 2.8'"
 end
 
 group :development, :test do
